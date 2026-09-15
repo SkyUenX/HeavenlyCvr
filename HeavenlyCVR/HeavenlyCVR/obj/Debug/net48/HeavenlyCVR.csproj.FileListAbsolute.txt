@@ -1,0 +1,9 @@
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/bin/Debug/net48/HeavenlyCVR.dll
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/bin/Debug/net48/HeavenlyCVR.pdb
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.csproj.AssemblyReference.cache
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.GeneratedMSBuildEditorConfig.editorconfig
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.AssemblyInfoInputs.cache
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.AssemblyInfo.cs
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.csproj.CoreCompileInputs.cache
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.dll
+/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/obj/Debug/net48/HeavenlyCVR.pdb

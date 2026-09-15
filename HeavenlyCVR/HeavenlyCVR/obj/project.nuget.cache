@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8N4XYprMsQ=",
+  "success": true,
+  "projectFilePath": "/home/notsecrets/Projects/HeavenlyCVR/HeavenlyCVR/HeavenlyCVR.csproj",
+  "expectedPackageFiles": [
+    "/home/notsecrets/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/notsecrets/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
